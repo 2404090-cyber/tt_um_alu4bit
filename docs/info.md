@@ -8,13 +8,10 @@ You can also include images in this folder and reference them in the markdown. E
 -->
 
 ## How it works
-
 a 4bit alu
 
 ## How to test
-
 apply i/p and observe output
 
 ## External hardware
-
 not required
